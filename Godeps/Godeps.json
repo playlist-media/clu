@@ -1,0 +1,54 @@
+{
+	"ImportPath": "github.com/playlist-media/clu",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "bitbucket.org/kardianos/osext",
+			"Comment": "null-13",
+			"Rev": "5d3ddcf53a508cc2f7404eaebf546ef2cb5cdb6e"
+		},
+		{
+			"ImportPath": "github.com/ConradIrwin/panicwrap",
+			"Rev": "dbbd17736f5ece8f7cd73c4d555ddf22dce9b33d"
+		},
+		{
+			"ImportPath": "github.com/bgentry/pflag",
+			"Rev": "b008717215c7236e20ca2faaf805e54ba6c1d208"
+		},
+		{
+			"ImportPath": "github.com/bugsnag/bugsnag-go",
+			"Comment": "v1.0.2-3-g4235a4d",
+			"Rev": "4235a4d700a0be6094fcb98c610caab6e21ec8df"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/config",
+			"Comment": "v0.10.4-1-g75e288c",
+			"Rev": "75e288c553a4204d55c3bc6323a45f7caa2a69e7"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/third_party/gopkg.in/yaml.v1",
+			"Comment": "v0.10.4-1-g75e288c",
+			"Rev": "75e288c553a4204d55c3bc6323a45f7caa2a69e7"
+		},
+		{
+			"ImportPath": "github.com/ddollar/go-update",
+			"Rev": "4733469d35539f410e0e84552944fa0df7e72c98"
+		},
+		{
+			"ImportPath": "github.com/kr/binarydist",
+			"Rev": "9955b0ab8708602d411341e55fffd7e0700f86bd"
+		},
+		{
+			"ImportPath": "github.com/mgutz/ansi",
+			"Rev": "376eb392d7d7e2ae025da0037c73cf8c20a428d8"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/osext",
+			"Rev": "0dd3f918b21bec95ace9dc86c7e70266cfc5c702"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "eca94c41d994ae2215d455ce578ae6e2dc6ee516"
+		}
+	]
+}
