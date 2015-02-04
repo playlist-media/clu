@@ -1,6 +1,6 @@
 # clu(ster)
 
-<img src="contrib/avatar.jpg" align="right" width="30" />
+<img src="contrib/avatar.jpg" align="right" width="200" />
 
 This repo contains all the necessary assets and configuration to deploy Playlist.com and related services onto our infrastructure.  This repository is open source in the hopes that others will find it useful, though of course our application code is closed source.  Happy hacking!
 
