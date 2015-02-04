@@ -1,6 +1,6 @@
 # clu(ster)
 
-<img src="http://fc09.deviantart.net/fs71/i/2011/085/b/d/tron__legacy___clu_by_superkusokao-d3chhhv.png" align="right" width="200" />
+[<img src="contrib/avatar.jpg" align="right" width="200" />](http://superkusokao.deviantart.com/art/Tron-Legacy-CLU-202369747)
 
 This repo contains all the necessary assets and configuration to deploy Playlist.com and related services onto our infrastructure.  This repository is open source in the hopes that others will find it useful, though of course our application code is closed source.  Happy hacking!
 
